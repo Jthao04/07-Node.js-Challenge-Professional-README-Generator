@@ -11,6 +11,8 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+# [Demonstration Video on How to Generate a ReadMe](https://drive.google.com/file/d/1irPp2797wkdeXoRN0yjSZKp2POxgpViB/view)
+
 ## Description
 
 A JavaScript program that utilizes npm inquirer to create readme files
