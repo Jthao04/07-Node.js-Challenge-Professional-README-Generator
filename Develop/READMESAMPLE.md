@@ -9,7 +9,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## Description
 
@@ -33,7 +33,7 @@ Contributions goes here
 
 ## Tests
 
-Tests goes here
+ Tests goes here
 
 ## Questions
 Here is a link to my [GitHub](https://github.com/Jthao04).

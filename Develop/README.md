@@ -9,7 +9,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 

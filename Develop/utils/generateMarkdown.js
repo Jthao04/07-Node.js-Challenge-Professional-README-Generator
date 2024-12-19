@@ -5,7 +5,7 @@ if (!license || license === "None") {
   return '';
 }
 
-const licenseBadges = {
+const licenseBadge = {
   'GPL': 'https://img.shields.io/badge/License-GPLv3-blue.svg',
   'Apache': 'https://img.shields.io/badge/License-Apache%202.0-blue.svg',
   'MIT': 'https://img.shields.io/badge/License-MIT-yellow.svg',
@@ -15,7 +15,7 @@ const licenseBadges = {
   'No license': 'https://img.shields.io/badge/License-None-lightgrey.svg',
 };
 
-return `![License](${licenseBadges[license]})`;
+return `![License](${licenseBadge[license]})`;
 }
 
 // TODO: Create a function that returns the license link
@@ -66,7 +66,7 @@ function generateMarkdown(data) {
 - [Tests](#tests)
 - [Questions](#questions)
 
-${licenseBadge}
+${renderLicenseBadge(data.license)}
 
 ## Description
 
